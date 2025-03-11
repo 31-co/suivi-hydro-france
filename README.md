@@ -5,6 +5,8 @@ Temps réel : Données hydrologiques en temps réel. Cette page réplique simple
 
 Historique : Données historiques pour les stations françaises, associées à une analayse succinte (moyenne, min, max). Les données couvrent une période maximum de 30 ans.
 
+Données croisées : Pour exemple, données croisées en temps réel pour la ville de Tulle. Les débits de la rivière Corrèze ont été croisé avec les relevés de précipitations.
+
 ## Sources des données :
 Vigicrues : https://www.vigicrues.gouv.fr/
 
