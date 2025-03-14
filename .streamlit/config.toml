@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#6c757d"  # Gris clair
+backgroundColor = "#f8f9fa"  # Gris très clair pour le fond
+secondaryBackgroundColor = "#e9ecef"  # Gris doux pour les arrière-plans secondaires
+textColor = "#2f3e5c"  # Gris foncé pour le texte
+font = "sans serif"
